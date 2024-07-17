@@ -1,7 +1,7 @@
 # 5th-sem-Summer-intenship at Mamo Technolabs
 
 ## Overview
-This repository documents my summer internship experience during the 5th semester at Mamo Technolabs. The primary project was focused on developing an AI Tool using React.js, alongside creating an Inventory Management System. This README provides a summary of the work completed each week.
+This repository documents my summer internship experience during the 5th semester at Mamo Technolabs. The primary project was focused on developing an Inventory Management System using React.js, alongside creating an AI tool for learning and understand more concept of React Js. This README provides a summary of the work completed each week.
 
 ## Weeks Summary
 
