@@ -38,7 +38,6 @@ This repository documents my summer internship experience during the 5th semeste
 - **30/05/2024 (Thursday):** Added item pages for particular inventories.
 - **31/05/2024 (Friday):** Developed item view pages to show item details like stock.
 - **01/06/2024 (Saturday):** Enhanced the item view pages.
-- **02/06/2024 (Sunday):** Holiday.
 - **03/06/2024 (Monday):** Integrated more features into the inventory management system.
 - **04/06/2024 (Tuesday):** Tested the inventory location functionality.
 - **05/06/2024 (Wednesday):** Began work on the Super Admin dashboard.
