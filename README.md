@@ -3,10 +3,11 @@
 ## Overview
 This repository documents my summer internship experience during the 5th semester at Mamo Technolabs. The primary project was focused on developing an Inventory Management System using React.js, alongside creating an AI tool for learning and understanding more concepts of React.js. This README provides a summary of the work completed each day.
 
+**Company:** Mamo Technolabs  
+
 ## Daily Summary
 
 ### Week 1 (15/05/2024 - 22/05/2024)
-**Company:** Mamo Technolabs  
 **Project:** AI Tool
 
 **Summary:**
@@ -18,7 +19,6 @@ This repository documents my summer internship experience during the 5th semeste
 - **21/05/2024 (Tuesday):** Implemented a search bar option.
 
 ### Week 2 (22/05/2024 - 29/05/2024)
-**Company:** Mamo Technolabs  
 **Project:** Inventory Management System
 
 **Summary:**
@@ -29,8 +29,7 @@ This repository documents my summer internship experience during the 5th semeste
 - **27/05/2024 (Monday):** Developed a dashboard for user inventory.
 - **28/05/2024 (Tuesday):** Tested and debugged the inventory management features.
 
-### Week 3 (29/05/2024 - 08/06/2024)
-**Company:** Mamo Technolabs  
+### Week 3 (29/05/2024 - 08/06/2024)  
 **Project:** Inventory Management System
 
 **Summary:**
@@ -46,7 +45,6 @@ This repository documents my summer internship experience during the 5th semeste
 - **08/06/2024 (Saturday):** Continued refining the Super Admin features.
 
 ### Week 4 (09/06/2024 - 15/06/2024)
-**Company:** Mamo Technolabs  
 **Project:** Inventory Management System
 
 **Summary:**
